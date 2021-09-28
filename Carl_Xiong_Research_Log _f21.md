@@ -9,8 +9,6 @@
 - [ ] Sign the ESPR Contract
 
 - [ ] Attend the research group meeting as scheduled and record attendance
-
-- [ ] Revise/Complete Reflection 1
  
 - [ ] Reflect on research logs
 
