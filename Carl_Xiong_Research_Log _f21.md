@@ -2,9 +2,9 @@
 # Week 1 (9/27-10/3)
 **Goals:**
 
-- [ ] Complete Draft of Reflection 1
+- [X] Complete Draft of Reflection 1
 
-- [ ] Set Up Research Log 
+- [X] Set Up Research Log 
 
 - [ ] Sign the ESPR Contract
 
