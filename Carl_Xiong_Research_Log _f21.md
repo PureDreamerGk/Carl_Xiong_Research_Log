@@ -20,12 +20,13 @@
   
   -->
 
-## Tuesday, Sep 28 (1.5 hrs)
+## Tuesday, Sep 28 (1.2 hrs)
 
 **Accomplishments**:
 
 * Set up log
 * Log reflection
+* Complete Draft of Reflection 1
 
 **Log Reflection**
 
