@@ -40,8 +40,8 @@
    
 3. Did the students keeping their logs seem to meet their goals? Did they get better at meeting their goals over time?
 
-  I believe all students from the sample done a great job on keeping their logs and meet their goals by the deadline. The log provide a clear to-do list, which serve the same function of the deadline of an assignment in classes. Student could better manage their time and efforts when their goal is claerly elaborated. I denfiently feel that all students from the sample get better at meeting their goals and writing their logs.
+   I believe all students from the sample done a great job on keeping their logs and meet their goals by the deadline. The log provide a clear to-do list, which serve the same function of the deadline of an assignment in classes. Student could better manage their time and efforts when their goal is claerly elaborated. I denfiently feel that all students from the sample get better at meeting their goals and writing their logs.
   
 4. Anything else you want to say about the logs?
 
-  I really appreciate reading all the students' log because it provides me an abstract of the reserach process in the project.
+    I really appreciate reading all the students' log because it provides me an abstract of the reserach process in the project. It is always great to look at some work done by former students because it conforts my little anxiety.
