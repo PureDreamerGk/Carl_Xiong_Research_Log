@@ -10,7 +10,7 @@
 
 - [ ] Attend the research group meeting as scheduled and record attendance
  
-- [ ] Reflect on research logs
+- [X] Reflect on research logs
 
 - [ ] Get started on reading research paper
 <!-- 
