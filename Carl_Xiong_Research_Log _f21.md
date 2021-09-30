@@ -6,19 +6,22 @@
 
 - [X] Set Up Research Log 
 
-- [ ] Sign the ESPR Contract
+- [X] Sign the ESPR Contract
 
 - [ ] Attend the research group meeting as scheduled and record attendance
  
 - [X] Reflect on research logs
 
 - [ ] Get started on reading research paper
-<!-- 
-## Wednesday, Sep 28 (2 hrs)
+
+## Wednesday, Sep 28 (1 hrs)
 
 **Accomplishments**:
+
+* Sign the ESRP Contract
+* Talk to other members in the team to schedule our weekly meeting time. The intital conclusion of a suitable time for all of the team members are Thurseday afternoon, though the actual meeting time would varied depend on multiple factors.
+* Talk to former students who participated in ESRP about some challenges they encountered during the reserach process as well as advices to circumvent or overcome those challenges.
   
-  -->
 
 ## Tuesday, Sep 28 (1.8 hrs)
 
