@@ -8,7 +8,7 @@
 
 - [X] Sign the ESPR Contract
 
-- [ ] Attend the research group meeting as scheduled and record attendance
+- [X] Attend the research group meeting as scheduled and record attendance (Attend group meeting instead of reserach meeting since there is no reserach meeting in week 1)
  
 - [X] Reflect on research logs
 
