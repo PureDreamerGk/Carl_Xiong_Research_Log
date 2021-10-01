@@ -14,7 +14,14 @@
 
 - [ ] Get started on reading research paper
 
-## Wednesday, Sep 28 (1 hrs)
+## Thursday, Sep 30 (0.5 hrs)
+
+**Accomplishments**:
+
+* Hold an in-person meeting with other team members to discuss about group meeting time with both our professor and Phd mentor. 
+* Share reserach related materials to other team members so that we could study the material and raise qustions before our first meeting.
+
+## Wednesday, Sep 29 (1 hrs)
 
 **Accomplishments**:
 
