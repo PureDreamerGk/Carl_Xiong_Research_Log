@@ -1,5 +1,24 @@
 ---
-# Week 1 (9/27-10/3)
+# Week 2(9/30-10/6)
+**Goals:**
+
+- [ ] Get started on reading research paper
+- [ ] 
+
+
+**Notes and Question:**
+
+[Week2 Note and Question](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing)
+
+## Thursday, Sep 30 (0.5 hrs)
+
+**Accomplishments**:
+
+* Hold an in-person meeting with other team members to discuss about group meeting time with both our professor and Phd mentor. 
+* Share reserach related materials to other team members so that we could study the material and raise qustions before our first meeting.
+
+---
+# Week 1 (9/27-9/29)
 **Goals:**
 
 - [X] Complete Draft of Reflection 1
@@ -11,19 +30,6 @@
 - [X] Attend the research group meeting as scheduled and record attendance (Attend a group meeting instead of the regular reserach meeting since there is no reserach meeting in week 1)
  
 - [X] Reflect on research logs
-
-- [ ] Get started on reading research paper
-
-**Notes and Question:**
-
-[Week1 Note and Question](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing)
-
-## Thursday, Sep 30 (0.5 hrs)
-
-**Accomplishments**:
-
-* Hold an in-person meeting with other team members to discuss about group meeting time with both our professor and Phd mentor. 
-* Share reserach related materials to other team members so that we could study the material and raise qustions before our first meeting.
 
 ## Wednesday, Sep 29 (1 hrs)
 
