@@ -1,4 +1,5 @@
----
+___
+
 # Week 2(9/30-10/6)
 **Goals:**
 
@@ -17,6 +18,7 @@
 * Hold an in-person meeting with other team members to discuss about group meeting time with both our professor and Phd mentor. 
 * Share reserach related materials to other team members so that we could study the material and raise qustions before our first meeting.
 
+___
 
 # Week 1 (9/27-9/29)
 **Goals:**
