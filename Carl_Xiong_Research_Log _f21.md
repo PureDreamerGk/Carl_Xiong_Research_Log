@@ -1,12 +1,17 @@
 ___
 
 # Week 2(9/30-10/6)
+
 **Goals:**
 
 - [ ] Get started on [reading research paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)
+
 - [ ] Scheduling meeting with professor, mentor and group members
+
 - [ ] Update group page to reflect correct information
-- [ ] Watch professor's lecture and slides on **information retrievel model** and **Indexing** and make notes. 
+
+- [ ] Watch professor's lecture and slides on **information retrievel model** and **Indexing** and make notes.
+ 
 - [ ] Attend the research group meeting as scheduled and record attendance
 
 **Notes and Question:**
