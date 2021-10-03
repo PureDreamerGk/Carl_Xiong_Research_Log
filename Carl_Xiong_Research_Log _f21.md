@@ -18,6 +18,16 @@ ___
 
 [Week2 Note and Question](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing)
 
+## Saturday, Oct 2(2hrs)
+
+* Read "How to Read an Engineering Research Paper" by William Griswold.
+
+ > Summary of the paper: Have all 8 questions mentioned in "How to Read an Engineering Research Paper" when reading a reserach paper. Reader should attempt to answer those questions when they finished reading, and such process would facilitate reader's understanding of the main topic in a paper. Annotating directly on the paper would also provide insights into the topic.
+
+* Finish professor's lecture on Overview of Information Retrieval and Web Search. 
+* Take notes and raise questionns about the topic discussed in the lecture.
+
+
 ## Thursday, Sep 30 (0.5 hrs)
 
 **Accomplishments**:
