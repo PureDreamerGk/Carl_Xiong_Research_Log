@@ -4,7 +4,7 @@ ___
 
 **Goals:**
 
-- [ ] Get started on [reading research paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)
+- [X] Read [the research paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)
 
 - [ ] Scheduling meeting with professor, mentor and group members
 
