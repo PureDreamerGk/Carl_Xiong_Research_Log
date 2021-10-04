@@ -18,6 +18,11 @@ ___
 
 [Week2 Note and Question](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing)
 
+## Sunday, Oct 3 (2.5hrs)
+
+* Watch professor's lecture on Information retrieval model and make [notes](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing).
+
+
 ## Saturday, Oct 2(2hrs)
 
 * Read "How to Read an Engineering Research Paper" by William Griswold.
