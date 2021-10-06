@@ -18,12 +18,25 @@ ___
 
 [Week2 Note and Question](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing)
 
+## Tuesday, OCT 5 (1hrs)
+
+**Accomplishments**:
+
+* Communicate with team members on the discrepency between course schedule and actual materails given.
+* Read professor's slide on Ranking and Learning.
+ > Our group decide to hold a talk with Prof.Dirba on Wednesday on the discrepency between cs110 schedule and materials given by Prof.Yang. The current setup is quite different than other groups and make group members unable to complete the homework on time. 
+
+
 ## Sunday, Oct 3 (2.5hrs)
+
+**Accomplishments**:
 
 * Watch professor's lecture on Information retrieval model and make [notes](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing).
 
 
 ## Saturday, Oct 2(2hrs)
+
+**Accomplishments**:
 
 * Read "How to Read an Engineering Research Paper" by William Griswold.
 
