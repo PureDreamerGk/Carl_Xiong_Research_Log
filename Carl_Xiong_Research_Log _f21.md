@@ -18,7 +18,7 @@ ___
 
 [Week2 Note and Question](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing)
 
-## Tuesday, OCT 5 (1hrs)
+## Tuesday, Oct 5 (1hrs)
 
 **Accomplishments**:
 
