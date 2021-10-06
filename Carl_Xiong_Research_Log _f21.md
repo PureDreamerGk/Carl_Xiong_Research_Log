@@ -24,7 +24,7 @@ ___
 
 * Communicate with team members on the discrepency between course schedule and actual materails given.
 * Read professor's slide on Ranking and Learning.
- > Our group decide to hold a talk with Prof.Dirba on Wednesday on the discrepency between cs110 schedule and materials given by Prof.Yang. The current setup is quite different than other groups and make group members unable to complete the homework on time. 
+ > Our group decide to hold a talk with Prof.Dirba on Wednesday on the discrepency between cs110 schedule and materials given by Prof.Yang. The current setup is quite different than other groups and make us unable to complete the homework on time. 
 
 
 ## Sunday, Oct 3 (2.5hrs)
