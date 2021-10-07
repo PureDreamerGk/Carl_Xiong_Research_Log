@@ -6,11 +6,11 @@ ___
 
 - [X] Read [the research paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)
 
-- [ ] Scheduling meeting with professor, mentor and group members
+- [X] Scheduling meeting with professor, mentor and group members
 
 - [ ] Update group page to reflect correct information
 
-- [ ] Watch professor's lecture and slides on **information retrievel model** and **Indexing** and make notes.
+- [X] Watch professor's lecture and slides on **information retrievel model** and **Indexing** and make notes.
  
 - [ ] Attend the research group meeting as scheduled and record attendance
 
@@ -18,7 +18,15 @@ ___
 
 [Week2 Note and Question](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing)
 
-## Tuesday, Oct 5 (1hrs)
+## Wednesday, Oct 6 (2.5 hrs)
+
+**Accomplishments**:
+
+* Watch professor's lecture on Indexing and make [notes](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing).
+* The group member communicate with professor and decide to hold meeting with professor at 1:10 pm every Thursday on Zoom.
+
+
+## Tuesday, Oct 5 (1 hrs)
 
 **Accomplishments**:
 
