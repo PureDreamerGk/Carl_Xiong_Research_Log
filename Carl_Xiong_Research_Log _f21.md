@@ -12,6 +12,8 @@ ___
 
 **Notes and Question:**
 
+TBD
+
 ## Thursday, Oct 7 (2.5 hrs)
 
 **Accomplishments**:
