@@ -20,7 +20,7 @@ ___
 
 ## Thursday, Oct 7 (2.5 hrs)
 
-** Accomplishments**:
+**Accomplishments**:
 
 * Hold meetimg with professor and discuss topic on advanced indexing for fast query processing
 * All members in the group attend the weekly meeting. We decided that we will hold our weekly meeting with professor on Thurseday 1:00 pm with Professor via zoom
