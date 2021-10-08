@@ -1,5 +1,27 @@
 ___
 
+# Week 3(10/7-13)
+
+**Goals:**
+
+- [ ] Attend the research group meeting as scheduled and record attendance
+
+- [ ] Read **[Efficient Query Processing for Scalable Web Search](http://engineering.nyu.edu/~suel/papers/bmw.pdf)** and **[Window Navigation with Adaptive Probing for Executing BlockMax WAND](http://sites.cs.ucsb.edu/projects/ds/ps/sigir2021.pdf)** and make notes
+
+- [ ] TBD
+
+**Notes and Question:**
+
+## Thursday, Oct 7 (2.5 hrs)
+
+**Accomplishments**:
+
+* Hold meetimg with professor and discuss topic on advanced indexing for fast query processing
+* All members in the group attend the weekly meeting. We decided that we will hold our weekly meeting with professor on Thurseday 1:00 pm with Professor via zoom
+* Acquire the correct reserach paper to read for our reserach paper assignment
+
+___
+
 # Week 2(9/30-10/6)
 
 **Goals:**
@@ -17,14 +39,6 @@ ___
 **Notes and Question:**
 
 [Week2 Note and Question](https://docs.google.com/document/d/1FS7vMO-6ErDkzApeb9nVdxQyW2kHHMFV1EB6rf90d3U/edit?usp=sharing)
-
-## Thursday, Oct 7 (2.5 hrs)
-
-**Accomplishments**:
-
-* Hold meetimg with professor and discuss topic on advanced indexing for fast query processing
-* All members in the group attend the weekly meeting. We decided that we will hold our weekly meeting with professor on Thurseday 1:00 pm with Professor via zoom
-* Acquire the correct reserach paper to read for our reserach paper assignment
 
 
 ## Wednesday, Oct 6 (2.5 hrs)
