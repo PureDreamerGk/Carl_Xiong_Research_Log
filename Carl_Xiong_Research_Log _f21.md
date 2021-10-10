@@ -12,7 +12,8 @@ ___
 
 **Notes and Question:**
 
-TBD
+[Week 3 Notes and Question](https://docs.google.com/document/d/1VIe8uu22FEY3Im-ZA7vOteSxPUpx0bIj9D9kDivo_Oc/edit?usp=sharing)
+
 ## Saturday, Oct 9 (2 hrs)
 
 **Accomplishments**:
