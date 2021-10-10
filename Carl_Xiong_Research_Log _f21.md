@@ -13,9 +13,10 @@ ___
 **Notes and Question:**
 
 TBD
+
 ## Friday, Oct 8 (0.5 hrs)
 
-**Accimplishments&&:
+**Accimplishments**:
 
 * Update group page about our project description and group meeting time
 
