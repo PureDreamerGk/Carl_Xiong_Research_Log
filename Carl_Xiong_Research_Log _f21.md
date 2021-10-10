@@ -8,11 +8,16 @@ ___
 
 - [ ] Read **[Efficient Query Processing for Scalable Web Search](http://engineering.nyu.edu/~suel/papers/bmw.pdf)** and **[Window Navigation with Adaptive Probing for Executing BlockMax WAND](http://sites.cs.ucsb.edu/projects/ds/ps/sigir2021.pdf)** and make notes
 
-- [ ] TBD
+- [X] Update group page to reflect correct information
 
 **Notes and Question:**
 
 TBD
+## Friday, Oct 8 (0.5 hrs)
+
+**Accimplishments&&:
+
+* Update group page about our project description and group meeting time
 
 ## Thursday, Oct 7 (2.5 hrs)
 
@@ -31,8 +36,6 @@ ___
 - [X] Read [the research paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)
 
 - [X] Scheduling meeting with professor, mentor and group members
-
-- [ ] Update group page to reflect correct information
 
 - [X] Watch professor's lecture and slides on **information retrievel model** and **Indexing** and make notes.
  
