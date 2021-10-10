@@ -13,10 +13,16 @@ ___
 **Notes and Question:**
 
 TBD
+## Saturday, Oct 9 (2 hrs)
+
+**Accomplishments**:
+
+* Read reserach paper on Window Navigation with Adaptive Probing for Executing BlockMax WAND and make [notes](https://docs.google.com/document/d/1VIe8uu22FEY3Im-ZA7vOteSxPUpx0bIj9D9kDivo_Oc/edit?usp=sharing).
+
 
 ## Friday, Oct 8 (0.5 hrs)
 
-**Accimplishments**:
+**Accomplishments**:
 
 * Update group page about our project description and group meeting time
 
