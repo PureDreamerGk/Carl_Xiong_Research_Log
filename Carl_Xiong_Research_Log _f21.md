@@ -14,11 +14,17 @@ ___
 
 [Week 3 Notes and Question](https://docs.google.com/document/d/1VIe8uu22FEY3Im-ZA7vOteSxPUpx0bIj9D9kDivo_Oc/edit?usp=sharing)
 
+## Tuesday, Oct 12 (2hrs)
+
+**Accomplishments**:
+
+* Reread reserach paper on Window Navigation with Adaptive Probing for Executing BlockMax WAND and make [notes](https://docs.google.com/document/d/1VIe8uu22FEY3Im-ZA7vOteSxPUpx0bIj9D9kDivo_Oc/edit?usp=sharing) on 2.1 and 2.2.
+
 ## Saturday, Oct 9 (2 hrs)
 
 **Accomplishments**:
 
-* Read reserach paper on Window Navigation with Adaptive Probing for Executing BlockMax WAND and make [notes](https://docs.google.com/document/d/1VIe8uu22FEY3Im-ZA7vOteSxPUpx0bIj9D9kDivo_Oc/edit?usp=sharing).
+* Read reserach paper on Window Navigation with Adaptive Probing for Executing BlockMax WAND and make [notes](https://docs.google.com/document/d/1VIe8uu22FEY3Im-ZA7vOteSxPUpx0bIj9D9kDivo_Oc/edit?usp=sharing) on 1.0.
 
 
 ## Friday, Oct 8 (0.5 hrs)
