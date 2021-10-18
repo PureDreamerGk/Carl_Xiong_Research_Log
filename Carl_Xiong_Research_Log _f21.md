@@ -4,9 +4,9 @@ ___
 
 **Goals**:
 
-- [ ] Attend the research group meeting as scheduled and record attendance
+- [x] Attend the research group meeting as scheduled and record attendance
 
-- [ ] Choose a technical topic that you feel you need to understand more about in order to better understand your research area.
+- [X] Choose a technical topic that you feel you need to understand more about in order to better understand your research area.
 
 - [ ] Document teaching plan and review exercise/questions on your log before class.
 
