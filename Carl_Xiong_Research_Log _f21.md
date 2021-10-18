@@ -20,6 +20,12 @@ ___
 
 TBD
 
+## Sunday, OCt 17 (2h4w)
+
+* I think we are still not really care about how *Block-MAX Wand* works so I think it would be good to do more studying on the topic
+* Google the term *BMW* and find an [interesting paper](http://engineering.nyu.edu/~suel/papers/bmw.pdf) that tells how it works.
+* tbd
+
 ## Thursday, Oct 14 (2 hrs)
 
 **Accomplishments**:
