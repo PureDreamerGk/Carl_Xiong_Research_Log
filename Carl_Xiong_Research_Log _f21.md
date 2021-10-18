@@ -1,18 +1,56 @@
 ___
 
+# Week 4 (10/14 - 20)
+
+**Goals**:
+
+- [ ] Attend the research group meeting as scheduled and record attendance
+
+- [ ] Choose a technical topic that you feel you need to understand more about in order to better understand your research area.
+
+- [ ] Document teaching plan and review exercise/questions on your log before class.
+
+- [ ] Identifying Group's Research Problem and Initial Proposed Approach
+
+- [ ] Refining the research problem and getting a start at a solution
+
+- [ ] Execute exsiting code to see how the current algorithm work
+ 
+**Notes and Question:**
+
+TBD
+
+## Thursday, Oct 14 (2 hrs)
+
+**Accomplishments**:
+
+* Hold meetimg with professor and mentor to discuss our questions on papers distributed by professor (the meeting last 1 hrs)
+* All members in the group attend the weekly meeting.
+ > Thr group member finally get to know the ultimate goal for this reserach is. For weeks, we have studied materials to understand the basic on how the current algorithm work. The current algorithm use index navigation with probing, which evaultion show the modifed technique offer a signifcant speed advantage for short queries and a certain range of K. The modified algorith, however, lost it advantages when k>= 50 where query term is 4 or more. The problem here is that the *WimMax* value is less accurate as a proxy for document score. According to the essay, "One reason is that the gap of average score between top-k documents and remaining documents becomes smaller when k is large, and thus earlier probing becomes less effective for window pruning"(3). Professor and Mentor that there is some problems using *Winmax* value and our reserach is to come up a more suitable value so that the algorithm also work when query term is larger. 
+
+
+___
+
 # Week 3(10/7-13)
 
 **Goals:**
 
-- [ ] Attend the research group meeting as scheduled and record attendance
+- [X] Attend the research group meeting as scheduled and record attendance
 
-- [ ] Read **[Efficient Query Processing for Scalable Web Search](http://engineering.nyu.edu/~suel/papers/bmw.pdf)** and **[Window Navigation with Adaptive Probing for Executing BlockMax WAND](http://sites.cs.ucsb.edu/projects/ds/ps/sigir2021.pdf)** and make notes
+- [X] Read **[Efficient Query Processing for Scalable Web Search](http://engineering.nyu.edu/~suel/papers/bmw.pdf)** and **[Window Navigation with Adaptive Probing for Executing BlockMax WAND](http://sites.cs.ucsb.edu/projects/ds/ps/sigir2021.pdf)** and make notes
 
 - [X] Update group page to reflect correct information
 
 **Notes and Question:**
 
 [Week 3 Notes and Question](https://docs.google.com/document/d/1VIe8uu22FEY3Im-ZA7vOteSxPUpx0bIj9D9kDivo_Oc/edit?usp=sharing)
+
+## Wednesday, Oct 13 (1hrs)
+
+**Accoplishments**:
+
+* Reread papers distributed by professor and prepare to ask questions that bewilder groups.
+
 
 ## Tuesday, Oct 12 (2hrs)
 
@@ -37,7 +75,7 @@ ___
 
 **Accomplishments**:
 
-* Hold meetimg with professor and discuss topic on advanced indexing for fast query processing
+* Hold meetimg with professor and discuss topic on advanced indexing for fast query processing (the meeting last 1.5 hrs)
 * All members in the group attend the weekly meeting. We decided that we will hold our weekly meeting with professor on Thurseday 1:00 pm with Professor via zoom
 * Acquire the correct reserach paper to read for our reserach paper assignment
 
