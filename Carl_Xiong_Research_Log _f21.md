@@ -20,7 +20,17 @@ ___
 
 TBD
 
-## Sunday, OCt 17 (2.5 hrs)
+## Wednesday, Oct 20 (1.5hrs)
+
+* Execute exsiting code and compare the efficeincy of *Wand* and *BMW* for the same dataset. We have also tried different block size and the value of K to see how each algorithm perform
+* In general, when k is smaller than 100, *BMW* perform better than *WAND* for 15-30% with the blocksize of 128.
+* My teammates and I have disccused about some appraoch to further optimize the current algorithm. We agree that max value is irreplaceable in the algorithm, but adding an mean or median may add flexiblity to the algorithm where they compare the Maxvalue in each posting list. 
+
+## Monday, Oct 18 (1hrs)
+
+* dicuss our teaching topic in class. Since our mentor see that we will use some deep leraning techinque in the future, my teammates decideds to talk about neural networks and some deep learning algorithm in the class. On the other hand, I feel that we are still confused about the SwapDown function in Wand algorithm so I would like to teach on that part.
+
+## Sunday, Oct 17 (2.5 hrs)
 
 * I think we are still not really care about how *Block-MAX Wand* works so I think it would be good to do more studying on the topic
 * Google the term *BMW* and find an [interesting paper](http://engineering.nyu.edu/~suel/papers/bmw.pdf) that tells how it works.
