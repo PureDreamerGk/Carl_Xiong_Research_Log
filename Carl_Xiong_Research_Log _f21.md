@@ -8,13 +8,13 @@ ___
 
 - [X] Choose a technical topic that you feel you need to understand more about in order to better understand your research area.
 
-- [ ] Document teaching plan and review exercise/questions on your log before class.
+- [X] Document teaching plan and review exercise/questions on your log before class.
 
-- [ ] Identifying Group's Research Problem and Initial Proposed Approach
+- [x] Identifying Group's Research Problem and Initial Proposed Approach
 
-- [ ] Refining the research problem and getting a start at a solution
+- [x] Refining the research problem and getting a start at a solution
 
-- [ ] Execute exsiting code to see how the current algorithm work
+- [x] Execute exsiting code to see how the current algorithm work
  
 **Notes and Question:**
 
