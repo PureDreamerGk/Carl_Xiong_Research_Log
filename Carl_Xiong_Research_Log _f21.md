@@ -1,5 +1,31 @@
 ___
 
+# Week 5 (10/21-27)
+
+**Goals**:
+
+- [x] Attend the research group meeting as scheduled and record attendance
+
+- [ ] Identify general reserach problems and research problem
+
+- [ ] Refine the research problem by discussing with teammates and mentors and getting a start at the solution
+
+- [ ] Search the literature related to first paper and try to get a better understanding of the field as a whole.
+
+- [ ] Test the existing code with different block size and methods and compare the result with the work published in the paper 
+
+**Notes and Questions**:
+
+TBD
+
+## Thurseday, Oct 21 (2hrs)
+
+* Attend the reserach group meeting with Prof.Yang and mentor and discuss exsiting questions for the reserach (1hrs)
+* Discuss detailed questions regarding the usage of some functions in the exisitng code with our mentor.
+* Mentor breifly go over how the exsting code work for each method (wand, bmw, bmw with navigational windows) so that we have a general idea.
+
+___
+
 # Week 4 (10/14 - 20)
 
 **Goals**:
