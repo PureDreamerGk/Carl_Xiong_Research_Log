@@ -6,7 +6,7 @@ ___
 
 - [x] Attend the research group meeting as scheduled and record attendance
 
-- [ ] Identify general reserach problems and research problem
+- [ ] Identify general reserach problems and technical challenges
 
 - [ ] Refine the research problem by discussing with teammates and mentors and getting a start at the solution
 
@@ -17,6 +17,13 @@ ___
 **Notes and Questions**:
 
 TBD
+
+## Sunday, Oct 24 (1hrs)
+
+* Identify general reserach problems and technique challenges
+ >The current problem of the bmwP is that even tough it significantly outperform the original algorithm when the query term is small while k is low, it lost it advantage to the orginal algorithm when the query term is largers than 4 while k become larger. The fundemental issue of this problem is due to the use of WinMax value in each sorting. According to the paper, WinMax is less accurate as a proxy for document score because the gap of average score between top k documents and non-top k documents because smaller as k grows. By only look at winmax in each block, the value could not give an accurate demonstration of the score in that block. Further reserach should focus on how to keep the current advantage when both k and query term become larger. However, some technique challenges remain. WinMax value could not be overlooked when sorting top k value because there is a document that have a high score in that block. If you neglect the value, there could be subsantail error in the result. Some possible solution is to combine the current algorithm with deep learning algorithm.
+
+* Execute the existing code for block size = 64, k =10 on *Wand, BMW* and *BMWP*. The intial result show that *BMW* is faster than *Wand* with the setup. However, there seems to be some bug in the executaion with *BMWP* since the timespace for every serach is 0ms. I'm going to take this problem to the mentor to seek for further instruction. 
 
 ## Thurseday, Oct 21 (2hrs)
 
