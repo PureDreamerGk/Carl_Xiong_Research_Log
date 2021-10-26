@@ -6,9 +6,9 @@ ___
 
 - [x] Attend the research group meeting as scheduled and record attendance
 
-- [ ] Identify general reserach problems and technical challenges
+- [X] Identify general reserach problems and technical challenges
 
-- [ ] Refine the research problem by discussing with teammates and mentors and getting a start at the solution
+- [X] Refine the research problem by discussing with teammates and mentors and getting a start at the solution
 
 - [ ] Search the literature related to first paper and try to get a better understanding of the field as a whole.
 
@@ -17,6 +17,13 @@ ___
 **Notes and Questions**:
 
 TBD
+## Tuesday, Oct 26 (2.5hrs)
+
+* Refine the reserach problem with teamtes and mentors and getting a start at the solution
+ > The optimized method performs generally better when the query term is short while top k is small(<100) according to the paper, but completely loses its advantage when both vectors become bigger. The fundamental issue lies in the core of the algorithm. The shortcoming is due to (1)WinMax value is less accurate as a proxy for possible document scores.  (2) As k becomes larger, window navigation with probing becomes less effective, especially for long queries. Advisers have suggested that deep learning algorithms could curtail the current shortcomes but I couldn’t give a clear response since we have not yet systematically studied topics in those fields.  I think there will be a tradeoff between efficiency and accuracy if I optimize the data. They could add an average or mean score to each block and give it certain weight when comparing max value because it allows flexibility to which block to decompress.
+* Search the literature to first paper and record information in the [log](https://docs.google.com/document/d/1P6bbIto4J5DHO6kImCl1hQ_ejBKEdIh97JLTEJxI7MM/edit?usp=sharing).
+
+
 
 ## Sunday, Oct 24 (1hrs)
 
