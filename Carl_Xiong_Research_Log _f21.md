@@ -16,7 +16,8 @@ ___
 
 **Notes and Questions**:
 
-TBD
+[Literture Search](https://docs.google.com/document/d/1P6bbIto4J5DHO6kImCl1hQ_ejBKEdIh97JLTEJxI7MM/edit?usp=sharing)
+
 ## Tuesday, Oct 26 (2.5hrs)
 
 * Refine the reserach problem with teamtes and mentors and getting a start at the solution
