@@ -20,7 +20,7 @@ ___
 
 **Notes and Questions**:
 
-[Literture Search2](https://docs.google.com/document/d/1P6bbIto4J5DHO6kImCl1hQ_ejBKEdIh97JLTEJxI7MM/edit?usp=sharing)
+[Literture Search2](https://docs.google.com/document/d/1ZngsmUh7POaOVVvENG-tPtpH2nO83tjwlfnJc8EgjMM/edit?usp=sharing)
 
 # Thurseday, Oct 28 (3 hrs)
 
