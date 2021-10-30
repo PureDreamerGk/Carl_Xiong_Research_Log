@@ -6,9 +6,9 @@ ___
 
 - [x] Attend the research group meeting as scheduled and record attendance
 
-- [ ] Narrowing down topic by selecting at least 3 most relevant paper to the current work
+- [X] Narrowing down topic by selecting at least 3 most relevant paper to the current work
 
-- [ ] Give a brief summary and reason of chossing the selected paper
+- [X] Give a brief summary and reason of chossing the selected paper
 
 - [ ] Produce the first draft of project proposal for the rest of ESRP project and finish the secton of Research context and problem statement
 
@@ -21,6 +21,11 @@ ___
 **Notes and Questions**:
 
 [Literture Search2](https://docs.google.com/document/d/1ZngsmUh7POaOVVvENG-tPtpH2nO83tjwlfnJc8EgjMM/edit?usp=sharing)
+
+# Friday, Oct 29 (2.5hrs)
+
+* Narrowing down topic by reading 3 relevant paper
+* Write brief summary and reason for choosing the selected paper on this [log](https://docs.google.com/document/d/1ZngsmUh7POaOVVvENG-tPtpH2nO83tjwlfnJc8EgjMM/edit?usp=sharing)
 
 # Thurseday, Oct 28 (3 hrs)
 
