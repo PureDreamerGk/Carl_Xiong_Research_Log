@@ -1,3 +1,13 @@
+---
+
+# Week 7 (11/4-10)
+
+**Goals**:
+
+- [x] Attend the research group meeting as scheduled and record attendance
+
+
+
 ___
 
 # Week 6 (10/28-11/3)
@@ -10,17 +20,24 @@ ___
 
 - [X] Give a brief summary and reason of chossing the selected paper
 
-- [ ] Produce the first draft of project proposal for the rest of ESRP project and finish the secton of Research context and problem statement
+- [X] Produce the first draft of project proposal for the rest of ESRP project and finish the secton of Research context and problem statement
 
-- [ ] Create a comparsion table for the performance of TP and BMW with different topk value and block size
+- [X] Create a comparsion table for the performance of TP and BMW with different topk value and block size
 
-- [ ] Read paper on [deepimpact](https://dl.acm.org/doi/abs/10.1145/3404835.3463030) and understand the basic of algorithm
+- [X] Read paper on [deepimpact](https://dl.acm.org/doi/abs/10.1145/3404835.3463030) and understand the basic of algorithm
 
-- [ ] Skim the code of [Pyserini](https://github.com/castorini/pyserini).
+- [X] Skim the code of [Pyserini](https://github.com/castorini/pyserini).
 
 **Notes and Questions**:
 
 [Literture Search2](https://docs.google.com/document/d/1ZngsmUh7POaOVVvENG-tPtpH2nO83tjwlfnJc8EgjMM/edit?usp=sharing)
+
+# Tuesday, Nov 2(1hrs)
+
+* Write a [porposal draft](https://docs.google.com/document/d/12Sr0JX7B1EdvNnR02cq399k0uzUsR3r05aCGB_YA2a8/edit?usp=sharing) of the ESRP project.
+* Skim the code of Psyserini
+* Reread the paper on DeepImpact and record problems
+
 
 # Friday, Oct 29 (2.5hrs)
 
