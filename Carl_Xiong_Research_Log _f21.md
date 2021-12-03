@@ -34,7 +34,7 @@ ___
 
 **Notes and Questions**:
 
-TBD
+[The Final Prposal](https://drive.google.com/file/d/1ia-s0CtQdugtR0shJncpUaU4TcHM33ad/view?usp=sharing)
 
 # Tuesday, Nov 23 (2 hrs)
 
