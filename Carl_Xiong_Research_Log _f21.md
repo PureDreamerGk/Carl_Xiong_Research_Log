@@ -2,6 +2,18 @@ ___
 
 # Week 10 (11/25-12/1)
 
+**Goals**:
+
+- [X] Attend the research group meeting as scheduled and record attendance
+
+- [x] Finish Reflection 4 and Final reflection and team member rating survey
+
+- [ ] Find a graduate student and arrange to meet with them sometime this week to ask and record some question regarding their experience in grad school.
+
+- [X] Final presentation in class
+
+**Goals**:
+
 
 ___
 
