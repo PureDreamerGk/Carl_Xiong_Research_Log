@@ -7,6 +7,38 @@ ___
 
 # Week 9 (11/18-24)
 
+**Goals**:
+
+- [X] Attend the research group meeting as scheduled and record attendance
+
+- [X] Give give feedback on your peers' proposals and post the feedback on to your ERSP Google Drive folder (under your individual sub folder) and also link it from your research log
+
+- [x] Bring the feedback to class to discuss with peers
+
+- [x] Revise porposal based on : (1)The peer review feedback you received, (2) the grading rubric (3) Any feedback you have received from your advisor.
+
+- [x] Share the revised proposal (with revision notes) with Chinmay
+
+
+**Notes and Questions**:
+
+TBD
+
+# Tuesday, Nov 23 (2 hrs)
+
+* writing the Evaluation and Implementation Plan section and be ready for peer review
+* Attend the research group meeting as scheduled and record attendance
+
+
+# Monday, Nov 22 (0.5 hrs)
+
+* writing the Evaluation and Implementation Plan section and be ready for peer review
+* Attend the research group meeting as scheduled and record attendance
+
+# Saturday, Nov 20 (2hrs)
+
+* Write porposed solution part of proposal and continue experiment with the existed code base
+
 ___
 
 # Week 8 (11/11-17)
@@ -27,9 +59,14 @@ ___
 
 TBD
 
+# Tuesday, Nov 16 (2 hrs)
+
+* writing the Evaluation and Implementation Plan section and be ready for peer review
+* Attend the research group meeting as scheduled and record attendance
+
 # Saturday, Nov 13 (2hrs)
 
-
+* Write porposed solution part of proposal and continue experiment with the existed code base
 
 ___
 
