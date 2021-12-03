@@ -1,18 +1,29 @@
 ___
 
-# Week 10 (11/25-12/1)
+# Week 10 (11/25-12/3)
 
 **Goals**:
 
 - [X] Attend the research group meeting as scheduled and record attendance
 
-- [x] Finish Reflection 4 and Final reflection and team member rating survey
+- [x] Finish Reflection 4 and team member rating survey
 
 - [ ] Find a graduate student and arrange to meet with them sometime this week to ask and record some question regarding their experience in grad school.
 
 - [X] Final presentation in class
 
 **Goals**:
+
+
+# Wednesday, Dec 1 (1hr)
+
+* Final presentation in class due to change in schedule
+
+
+# Monday, Nov 29 (1 hr)
+
+* Finish reflection4 and final reflection and the team member survey in class.
+* Prepare to write draft for our final presentation
 
 
 ___
@@ -34,7 +45,7 @@ ___
 
 **Notes and Questions**:
 
-[The Final Prposal](https://drive.google.com/file/d/1ia-s0CtQdugtR0shJncpUaU4TcHM33ad/view?usp=sharing)
+[The Final Revised Prposal](https://drive.google.com/file/d/1ia-s0CtQdugtR0shJncpUaU4TcHM33ad/view?usp=sharing)
 
 # Tuesday, Nov 23 (2 hrs)
 
