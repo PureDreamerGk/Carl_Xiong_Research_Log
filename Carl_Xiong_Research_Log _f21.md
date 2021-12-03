@@ -32,12 +32,13 @@ TBD
 
 # Monday, Nov 22 (0.5 hrs)
 
-* writing the Evaluation and Implementation Plan section and be ready for peer review
-* Attend the research group meeting as scheduled and record attendance
+* Share the revised proposal (with revision notes) with Chinmay
+* Bring the feedback to class to discuss with peers and discuss extensively with the porblem.
+* The main feedback we get from our pair: (1) too much temonelogy used without claerly explanation in the background section.(2)a little unorganized writing in the evaultion paragraph (3) timeline is not inlcude in the porposal 
 
 # Saturday, Nov 20 (2hrs)
 
-* Write porposed solution part of proposal and continue experiment with the existed code base
+* Give give feedback on your peers' proposals and post the feedback on to your ERSP Google Drive folder (under your individual sub folder) and also [link]() it from your research log
 
 ___
 
