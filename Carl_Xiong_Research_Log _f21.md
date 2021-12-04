@@ -8,11 +8,14 @@ ___
 
 - [x] Finish Reflection 4 and team member rating survey
 
-- [ ] Find a graduate student and arrange to meet with them sometime this week to ask and record some question regarding their experience in grad school.
+- [X] Find a graduate student and arrange to meet with them sometime this week to ask and record some question regarding their experience in grad school.
 
 - [X] Final presentation in class
 
 **Goals**:
+# Friday, Dec 3 (1hrs)
+
+* Interview with our mentor and record the answer
 
 
 # Wednesday, Dec 1 (1hr)
