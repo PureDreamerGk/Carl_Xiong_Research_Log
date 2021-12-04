@@ -15,7 +15,7 @@ ___
 **Goals**:
 # Friday, Dec 3 (1hrs)
 
-* Interview with our mentor and record the answer
+* Interview with our mentor and record the [answer](https://docs.google.com/document/d/14nqg0AtGGzgnSPX8tavAB7T6f3nBye7AQN3ZswJDPyM/edit?usp=sharing)
 
 
 # Wednesday, Dec 1 (1hr)
